@@ -1,5 +1,6 @@
-# SQL-Cleaning-Customer-Orders
-Using MySQL to clean data from a table of customer orders.
+## SQL-Cleaning-Customer-Orders
+### Using MySQL to clean data from a table of customer orders.
+<br/>
 
 The objective of this project was to demonstrate cleaning and normalizing data using MySQL, as it is important to have a cleaning pipeline and prevent innaccurate conclusions.
 
