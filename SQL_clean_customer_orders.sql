@@ -15,6 +15,7 @@ WITH prepped_data AS (
         LOWER(TRIM(country)) AS low_country,
         CEIL(price) AS rounded_price
     FROM customer_orders
+    WHERE customer_name IS NOT NULL
 ),
 
 -- CTE 2: Cleaning
